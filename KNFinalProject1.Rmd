@@ -3,8 +3,8 @@ title: "Project1-Kaylei-Nilson"
 author: "Kaylei Nilson-Pierce"
 date: "10/1/2020"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
   html_document: default
 ---
 
